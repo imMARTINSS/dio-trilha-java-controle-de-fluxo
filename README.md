@@ -38,7 +38,7 @@ Para testar a solução em seu ambiente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL-DO-SEU-REPOSITORIO-AQUI]
+    git clone https://github.com/imMARTINSS/dio-trilha-java-controle-de-fluxo.git
     ```
 2.  **Abra o projeto** em sua IDE de preferência.
 3.  **Execute a classe principal `Contador.java`**.
